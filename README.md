@@ -10,5 +10,4 @@ Added:
 Fixed: 
 
 - Greenleaf site has incorrect NPK values for P,K and S. 
-
-- rz
+- 
