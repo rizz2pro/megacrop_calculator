@@ -5,11 +5,10 @@ Added:
 
 - PPM and EC values. Tested by me. could be off +/- 20ppm
 - A separate calculator to measure by the Gallon
+- Another calculator that is based off PPM/EC using a multiplier. This one is for those who mix their nutrients by ratios and aiming for a target EC/PPM. 
 
 Fixed: 
 
 - Greenleaf site has incorrect NPK values for P,K and S. 
-
-I couldn't get the math to jibe on one page, so pick one or the other. I may eventually get around to making it work, but whatever.
 
 - rz
